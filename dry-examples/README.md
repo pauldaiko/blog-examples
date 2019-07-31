@@ -1,6 +1,6 @@
 # dry-examples
 
-> Examples for blog post how to avoid code duplication
+> Examples of route change nuking the vuetify theme stylesheet in vuetify 2.0.3
 
 ## Build Setup
 
